@@ -1,0 +1,26 @@
+h1 {
+    color: brown;
+}
+/* p {
+    color: slategray;
+} */
+label {
+    color: blue;
+}
+p.error {
+    color: red;
+}
+div p {
+    color: brown;
+}
+div p.success {
+    color: green;
+}
+/* always use websafe fonts, details cant be found from w3school website */
+.color-me {
+    color: darkorange;
+}
+
+div .color-me {
+    color: gold;
+}
